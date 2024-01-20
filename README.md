@@ -1,4 +1,6 @@
-### Hi there 👋
+![Draggie's GitHub stats](https://github-readme-stats.vercel.app/api?username=draggie306&hide=prs)
+
+[![Wakatime Profile Stats](https://wakatime.com/badge/user/018c55e4-8c24-4c7a-b81f-a20c9b916c07.svg)](https://wakatime.com/@018c55e4-8c24-4c7a-b81f-a20c9b916c07)
 
 <!--
 **Draggie306/draggie306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
