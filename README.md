@@ -24,6 +24,10 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/github/stars/draggie306?style=for-the-badge&logo=github&label=total%20stars&color=00acff" alt="Total Stars"/>
+</p>
+
+<p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=draggie306.draggie306" alt="visitors"/>
 </p>
 
