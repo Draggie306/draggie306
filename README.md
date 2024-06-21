@@ -6,7 +6,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=draggie306&hide=prs&cache_seconds=86400&layout=pie&rank_icon=percentile&border_color=00acff" alt="Draggie's GitHub stats" width="600"/>
   </a>
   <p>Coding Time Stats (past year):</p>
-  <img src="https://wakatime.com/share/@draggie/13181c00-16e4-487f-a91b-f1c2c85bb52b.svg"></img>
+  <a href="https://wakatime.com/@draggie"><img src="https://wakatime.com/share/@draggie/ef827b66-5eb8-4829-a37d-3ebd2046bf74.png" /></a>
 </p>
 <p align="center">
   Total time coding since December 10, 2023: <a href="https://wakatime.com/@018c55e4-8c24-4c7a-b81f-a20c9b916c07">
