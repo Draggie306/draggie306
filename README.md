@@ -5,8 +5,12 @@
   <a href="https://github.com/draggie306">
     <img src="https://github-readme-stats.vercel.app/api?username=draggie306&hide=prs&cache_seconds=86400&layout=pie&rank_icon=percentile&border_color=00acff" alt="Draggie's GitHub stats" width="600"/>
   </a>
-  <p align="center">Coding Time Stats (past year):</p>
-  <a href="https://wakatime.com/@draggie"><img src="https://wakatime.com/share/@draggie/ef827b66-5eb8-4829-a37d-3ebd2046bf74.png" align="center" width="600"/></a>
+  <p align="center"></p>
+  <a ><img src="" align="center" width="600"/></a>
+
+  <p align="center">Coding Time Stats (past year):
+  <img src="https://wakatime.com/share/@draggie/ef827b66-5eb8-4829-a37d-3ebd2046bf74.png" />
+  </p>
 </p>
 
 <p align="center">
