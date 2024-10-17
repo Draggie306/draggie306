@@ -14,13 +14,18 @@
 </p>
 -->
 
+<!-- 
 <p align="center">
   <img src="https://img.shields.io/github/stars/draggie306?style=for-the-badge&logo=github&label=total%20stars&color=00acff" alt="Total Stars"/>
 </p>
+-->
 
 <hr>
 
   <h4 align="center">Time spent coding<br><br>
+  
+  <img src="https://wakatime.com/badge/user/018c55e4-8c24-4c7a-b81f-a20c9b916c07.svg" alt="Total time coded since Dec 10, 2023" /></a>
+  <br>
   <img src="https://wakatime.com/share/@draggie/ef827b66-5eb8-4829-a37d-3ebd2046bf74.png" />
   </h4>
 </p>
