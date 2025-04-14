@@ -1,17 +1,16 @@
 ## Hello!
-I'm Oliver, a student currently at the University of Nottingham, studying Computer Science with AI.
-
+I'm Oliver, a Computer Science with AI student at the University of Nottingham.
 
 ### My interests
-Within Computer Science, I'm particularly interested in networks, natural language processing, cybersecurity and optimisation. My work tends to focus on making tangible and practical solutions to genuine problems, in an effort to blend Computer Science and programming with the real world. This is done in part through my love for learning languages including French and Italian, and a passion for physical and human geography, amongst other things. 
+Within Computer Science, I'm particularly interested in networks, natural language processing, cybersecurity and optimisation. My work focuses on making applied, practical solutions to genuine problems, in an effort to blend Computer Science and programming with the real world. This is done in part through my love for learning languages including French and Italian, and a passion for physical and human geography, amongst other things. 
 
-You may have used my [Cheat Sheets](https://ibaguette.com/cheatsheets) if you have studied GCSE or A Level! I'm also (somewhat) active in education, research, and programming communities and discussions online.
+You may have used my [Cheat Sheets](https://ibaguette.com/cheatsheets) if you have studied GCSE or A Level! I'm active in education, research and programming communities and discussions online, too.
 
-I also love statistics and being fully transparent in what I do, which is why you can see granular information about my coding habits, which languages I'm using and more below. In addition to all this, all the the projects and tools that I create are open-sourced here!
+I also love statistics and being fully transparent in what I do. You can see granular information about my coding habits, which languages I use and more below. In addition to all this, all the projects and tools that I create are open-sourced here!
 
-Some of the best things I've done so far include: researching about the future of generative AI, [discussing AI with Cambridge University researchers for hours](https://x.com/Cambridge_Uni/status/1717526066644815885), [creating an app to help patients receive medical care](https://github.com/Draggie306/patient-assistance), [authoring a range of resources that thousands of students use regularly](https://github.com/Draggie306/CheatSheets)... and quite a bit more! 
+Some of my highlights so far include: [researching the future potential of generative AI](https://research.geog.uk/cs/epq.pdf), [discussing AI with Cambridge University researchers for hours](https://x.com/Cambridge_Uni/status/1717526066644815885), [creating an app to help patients receive medical care](https://github.com/Draggie306/patient-assistance), [authoring a range of resources that thousands of students use regularly](https://github.com/Draggie306/CheatSheets)... and more! Check out my [portfolio site](https://oling.dev).
 
-If you are super interested, you can find out more about me on my [LinkedIn page](https://www.linkedin.com/in/oliver-ling/).
+If you'd like to know more about what I do, feel free to browse my [LinkedIn page](https://www.linkedin.com/in/oliver-ling/).
 
 ---
 
