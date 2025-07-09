@@ -4,7 +4,7 @@ I'm Oliver, a Computer Science with AI student at the University of Nottingham.
 ### My interests
 Within Computer Science, I'm particularly interested in networks, natural language processing, cybersecurity and optimisation. My work focuses on making applied, practical solutions to genuine problems, in an effort to blend Computer Science and programming with the real world. This is done in part through my love for learning languages including French and Italian, and a passion for physical and human geography, amongst other things. 
 
-You may have used my [Cheat Sheets](https://ibaguette.com/cheatsheets) if you have studied GCSE or A Level! I'm active in education, research and programming communities and discussions online, too.
+You may have used my [Cheat Sheets](https://ibaguette.com/cheatsheets) if you've studied GCSEs or A Levels! I'm active in education, research and programming communities and discussions online, too.
 
 I also love statistics and being fully transparent in what I do. You can see granular information about my coding habits, which languages I use and more below. In addition to all this, all the projects and tools that I create are open-sourced here!
 
@@ -15,7 +15,7 @@ If you'd like to know more about what I do, feel free to browse my [LinkedIn pag
 ---
 
 <p align="center">
-  <h3 align="center">Cool stats about me<br><br>
+  <h3 align="center">My coding stats<br><br>
   <a href="https://wakatime.com/@draggie">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=draggie&custom_title=Top%20Languages%20(past%20year)&layout=compact&langs_count=20&border_color=00acff" alt="WakaTime stats last year" width="600"/>
   </a>
@@ -38,10 +38,15 @@ If you'd like to know more about what I do, feel free to browse my [LinkedIn pag
 
 <hr>
 
-  <h4 align="center">Time spent coding<br><br>
+  <h3 align="center">Time spent programming<br><br>
+
+  <a href="https://wakatime.com/@draggie"> <img src="https://img.shields.io/endpoint?url=https://c.oling.dev/api/compat/shields/v1/draggie/interval:all_time&label=Total%20time%20coded&color=blue" /> </a>
   
-  <img src="https://c.oling.dev/api/activity/chart/draggie.svg" alt="Total time coded since Dec 10, 2023" /></a>
-  </h4>
+  <img src="https://c.oling.dev/api/activity/chart/draggie.svg" alt="View of the past year of coding" /></a>
+
+  <br>
+  
+  </h3>
 </p>
 
 <hr>
