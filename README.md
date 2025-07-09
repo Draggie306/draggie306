@@ -40,9 +40,7 @@ If you'd like to know more about what I do, feel free to browse my [LinkedIn pag
 
   <h4 align="center">Time spent coding<br><br>
   
-  <img src="https://wakatime.com/badge/user/018c55e4-8c24-4c7a-b81f-a20c9b916c07.svg" alt="Total time coded since Dec 10, 2023" /></a>
-  <br>
-  <img src="https://wakatime.com/share/@draggie/ef827b66-5eb8-4829-a37d-3ebd2046bf74.png" />
+  <img src="https://c.oling.dev/api/activity/chart/draggie.svg" alt="Total time coded since Dec 10, 2023" /></a>
   </h4>
 </p>
 
