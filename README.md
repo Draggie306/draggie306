@@ -40,9 +40,9 @@ If you'd like to know more about what I do, feel free to browse my [LinkedIn pag
 
   <h3 align="center">Time spent programming<br><br>
 
-  <a href="https://wakatime.com/@draggie"> <img src="https://img.shields.io/endpoint?url=https://c.oling.dev/api/compat/shields/v1/draggie/interval:all_time&label=Total%20time%20coded&color=blue" /> </a>
+  <a href="https://wakatime.com/@draggie"> <img src="https://img.shields.io/endpoint?url=https://c.oling.dev/api/compat/shields/v1/oling/interval:all_time&label=Total%20time%20coding&color=blue" /> </a>
   
-  <img src="https://c.oling.dev/api/activity/chart/draggie.svg" alt="View of the past year of coding" /></a>
+  <img src="https://c.oling.dev/api/activity/chart/oling.svg" alt="View of the past year of coding" /></a>
 
   <br>
   
