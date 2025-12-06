@@ -17,10 +17,10 @@ If you'd like to know more about what I do, feel free to browse my [LinkedIn pag
 <p align="center">
   <h3 align="center">My coding stats<br><br>
   <a href="https://wakatime.com/@draggie">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=draggie&custom_title=Top%20Languages%20(past%20year)&layout=compact&langs_count=12&border_color=00acff" alt="WakaTime stats last year" width="600"/>
+    <img src="https://gh-stats.ibaguette.com/api/wakatime?username=draggie&custom_title=Top%20Languages%20(past%20year)&layout=compact&langs_count=12&border_color=00acff" alt="WakaTime stats last year" width="600"/>
   </a>
   <a href="https://github.com/draggie306">
-    <img src="https://github-readme-stats.vercel.app/api?username=draggie306&hide=prs&cache_seconds=86400&layout=pie&rank_icon=percentile&border_color=00acff" alt="Draggie's GitHub stats" width="600"/>
+    <img src="https://gh-stats.ibaguette.com/api?username=draggie306&hide=prs&cache_seconds=86400&layout=pie&rank_icon=percentile&border_color=00acff" alt="Draggie's GitHub stats" width="600"/>
   </a>
 
 
