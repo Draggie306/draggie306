@@ -1,5 +1,5 @@
 ## Hello!
-I'm Oliver, a second-year undergraduate Computer Science and Artificial Intelligence (with Year-in-Industry) student at the University of Nottingham.
+I'm Oliver, a final-year undergraduate Computer Science and Artificial Intelligence student at the University of Nottingham.
 
 ### My interests
 Within Computer Science, I'm particularly interested in networks, natural language processing and infrastructure optimisation; you'll usually find me usually working on projects that apply practical solutions to genuine problems. I love learning new tech stacks and programming languages, plus natural languages (including French and Italian). I also enjoy studying and learning about humanities, including physical, human and political geography, history, and creative writing.
